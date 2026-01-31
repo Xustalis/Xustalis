@@ -5,7 +5,7 @@
 **人工智能 | C++ & Python 开发者**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93;C%2B%2B+%2F+Python+%2F+Rust;VoidWarp+%7C+petchat+%7C+JingRan;%E7%84%A1%E9%99%90%E9%80%B2%E6%AD%A5;%E5%A4%A9%E7%A9%BA%E5%8D%B3%E4%B8%BA%E6%9E%81%E9%99%90%EF%BC%8C%E5%AE%87%E5%AE%99%E6%B5%A9%E7%80%瀚%E6%97%A0%E8%BE%B9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93;C%2B%2B+%2F+Python+%2F+Rust;VoidWarp+%7C+petchat+%7C+JingRan;%E7%84%A1%E9%99%90%E9%80%B2%E6%AD%A5;%E5%A4%A9%E7%A9%BA%E5%8D%B3%E4%B8%BA%E6%9E%81%E9%99%90%EF%BC%8C%E5%AE%87%E5%AE%99%E6%B5%A9%E7%80%9A%E6%97%A0%E8%BE%B9" alt="Typing SVG" />
 </a>
 
 <p>
