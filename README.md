@@ -46,9 +46,9 @@
 
 | 项目名称 | 核心技术 | 简述 | 当前状态 |
 | :--- | :--- | :--- | :---: |
-| **[VoidWarp](https://github.com/Xustalis/VoidWarp)** | `Rust` | 跨平台局域网高速文件传输工具 | `已完成` |
-| **[petchat](https://github.com/Xustalis/petchat)** | `Python` | 基于 P2P 协议的加密通讯软件 | `修复中` |
-| **[JingRan](https://github.com/Xustalis/JingRan)** | `Python` | 极简逻辑的个人日程管理工具 | `正在开发` |
+| **[VoidWarp](https://github.com/Xustalis/VoidWarp)** | `Rust` | 跨平台局域网高速文件传输工具 | `开发中` |
+| **[petchat](https://github.com/Xustalis/petchat)** | `Python` | 基于 P2P 协议的加密通讯软件 | `已完成` |
+| **[JingRan](https://github.com/Xustalis/JingRan)** | `Kotlin` | 极简逻辑的个人日程管理工具 | `正在开发` |
 
 <br/>
 
