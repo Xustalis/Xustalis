@@ -44,21 +44,6 @@ OIER && CODER 热衷于：
 ### 🚀 shuati-CLI
 [快速开始](https://github.com/Xustalis/shuati-Cli)
 
----
-
-## 🧩 All Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xustalis&repo=VoidWarp&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xustalis&repo=shuati-Cli&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xustalis&repo=petchat&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xustalis&repo=Crawler&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
 
 ## 💻 Tech Stack
 
