@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Curious AI Student | Full-Stack Tinkerer</b><br/>
+  <b>AI Student | Full-Stack Tinkerer</b><br/>
 </p>
 
 <p align="center">
@@ -27,12 +27,12 @@
 
 ## 🎓 About Me
 
-OIER && CODER 热衷于：
+OIER && CODER 
+热衷于：
 
-- **🤖 AI 与深度学习**
-- **🛠️ 工程化实践**
-- **📚 多向学习**
-- **🚀 开源热情**
+- ** AI 与深度学习**
+- ** 工程化实践**
+- ** 开源热情**
 
 ---
 
@@ -63,14 +63,6 @@ OIER && CODER 热衷于：
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Xustalis&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
-
----
-
-## 🌱 Learning Journey
-
-- 从课程作业到独立项目
-- 从想法验证到工程化落地
-- 从单一语言到多技术栈探索
 
 ---
 
